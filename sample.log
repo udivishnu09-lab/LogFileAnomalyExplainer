@@ -1,0 +1,8 @@
+INFO Server Started
+INFO Connecting Database
+INFO User Login Success
+ERROR Database Connection Timeout
+INFO Retry Attempt 1
+INFO Retry Failed
+WARNING High Memory Usage
+INFO Service Stopped
