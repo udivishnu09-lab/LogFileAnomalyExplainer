@@ -161,3 +161,12 @@ The report contains:
 ## Conclusion
 
 The Log File Anomaly Explainer simplifies production support tasks by automatically detecting issues in log files and generating AI-powered explanations, reducing manual troubleshooting effort and improving efficiency.
+
+
+
+
+#DEMO LINK
+https://drive.google.com/file/d/1W6LUSFbZe7Qs-1tTnQuH4tWAp2AqRx4R/view?usp=sharing
+
+
+
